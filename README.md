@@ -9,7 +9,7 @@ There are also notebooks used as projects for the Nanodegree program. In the pro
 1. Introduction to Deep Learning
 2. Neural Networks
 	* Introduction to Neural Networks
-	* Implementing Gradient Descent
+	* [Implementing Gradient Descent](https://github.com/zzhangusf/udacity-deep-learning-nanodegree/tree/master/NN01-student-admissions)
 	* Training Neural Network
 	* GPU Workspaces Demo
 	* Project: Predicting Bike Sharing Date
