@@ -4,7 +4,18 @@ This repository contains material related to Udacity's [Deep Learning Nanodegree
 
 There are also notebooks used as projects for the Nanodegree program. In the program itself, the projects are reviewed by Udacity experts, but they are available here as well.
 
-## Table Of Contents
+## Course Schedules
+
+1. Introduction to Deep Learning
+2. Neural Networks
+	* Introduction to Neural Networks
+	* Implementing Gradient Descent
+	* Training Neural Network
+	* GPU Workspaces Demo
+	* Project: Predicting Bike Sharing Date
+	* Sentiment Analysis
+	* Keras
+	* TensorFlow
 
 ### Tutorials
 
