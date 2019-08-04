@@ -1,5 +1,7 @@
 # Deep Learning Nanodegree Foundation
 
+My certificate: https://graduation.udacity.com/nd101
+
 This repository contains material related to Udacity's [Deep Learning Nanodegree Foundation](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101) program. It consists of a bunch of tutorial notebooks for various deep learning topics. In most cases, the notebooks lead you through implementing models such as convolutional networks, recurrent networks, and GANs. There are other topics covered such as weight intialization and batch normalization.
 
 There are also notebooks used as projects for the Nanodegree program. In the program itself, the projects are reviewed by Udacity experts, but they are available here as well.
@@ -7,15 +9,26 @@ There are also notebooks used as projects for the Nanodegree program. In the pro
 ## Course Schedules
 
 1. Introduction to Deep Learning
-2. Neural Networks
-	* Introduction to Neural Networks
-	* [Implementing Gradient Descent](https://github.com/zzhangusf/udacity-deep-learning-nanodegree/tree/master/NN01-student-admissions)
-	* Training Neural Network
-	* GPU Workspaces Demo
-	* [Project: Predicting Bike Sharing Date](http://localhost:8888/tree/udacity-deep-learning-nanodegree/NN05-first-neural-network-project)
-	* Sentiment Analysis
-	* Keras
-	* TensorFlow
+
+1. Neural Networks
+	1. Introduction to Neural Networks
+	1. [Implementing Gradient Descent](https://github.com/zzhangusf/udacity-deep-learning-nanodegree/tree/master/NN01-student-admissions)
+	1. Training Neural Network
+	1. GPU Workspaces Demo
+	1. [Project: Predicting Bike Sharing Date](http://localhost:8888/tree/udacity-deep-learning-nanodegree/NN05-first-neural-network-project)
+	1. [**Sentiment Analysis**](http://localhost:8888/tree/udacity-deep-learning-nanodegree/NN06-sentiment-network)
+	1. [Keras](https://github.com/zzhangusf/udacity-deep-learning-nanodegree/tree/master/NN07-student-admissions-keras)
+	1. [TensorFlow](http://localhost:8888/tree/udacity-deep-learning-nanodegree/NN08-intro-to-tensorflow)
+
+1. Convolutional Networks
+	1. Cloud Computing
+	1. Convolutional Neural Networks
+	1. CNNs in TensorFlow
+	1. [Weight Initialization](https://github.com/zzhangusf/udacity-deep-learning-nanodegree/tree/master/CNN04-weight-initialization)
+	1. Autoencoders
+	1. Transfer Learning in TensorFlow
+	1. CNN Project: Dog Breed Classifier
+	1. Deep Learning for Cancer Detection with Sebastian Thrun
 
 ### Tutorials
 
