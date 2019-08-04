@@ -12,7 +12,7 @@ There are also notebooks used as projects for the Nanodegree program. In the pro
 	* [Implementing Gradient Descent](https://github.com/zzhangusf/udacity-deep-learning-nanodegree/tree/master/NN01-student-admissions)
 	* Training Neural Network
 	* GPU Workspaces Demo
-	* Project: Predicting Bike Sharing Date
+	* [Project: Predicting Bike Sharing Date](http://localhost:8888/tree/udacity-deep-learning-nanodegree/NN05-first-neural-network-project)
 	* Sentiment Analysis
 	* Keras
 	* TensorFlow
